@@ -1,0 +1,2 @@
+.App{text-align:center}.todo{flex-wrap:wrap;align-items:center;font-family:Arial,Helvetica,sans-serif;font-weight:600;color:#353535}.todo,.todo__item{display:flex;justify-content:center}.todo__item{flex-direction:column;width:300px;margin:25px;padding:25px;background-color:#f7f7ff;border:1px solid #353535;transition:transform .2s ease-in-out}.todo__item:hover{transform:scale(1.1)}
+/*# sourceMappingURL=main.68ab86ee.chunk.css.map */
